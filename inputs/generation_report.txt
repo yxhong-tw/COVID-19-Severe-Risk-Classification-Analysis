@@ -1,0 +1,8 @@
+data.csv's Generation Report:
+Number of IS_HIGH_RISK_FOR_SEVERE_COVID_19 == 1: 488
+Number of data: 10000
+
+data2.csv's Generation Report:
+Number of IS_HIGH_RISK_FOR_SEVERE_COVID_19 == 1: 1762
+Number of data: 10000
+
